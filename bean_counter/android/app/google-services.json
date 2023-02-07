@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069463213506",
+    "project_id": "bean-counter-edc0a",
+    "storage_bucket": "bean-counter-edc0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069463213506:android:9052091af8fc14aedfb25b",
+        "android_client_info": {
+          "package_name": "com.example.bean_counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069463213506-jtjpsmcmg1k15782kb3oihqmj9d1k4ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk0idfuV8R2LNjvVtO8WQUNuPdqaS63t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069463213506-jtjpsmcmg1k15782kb3oihqmj9d1k4ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
